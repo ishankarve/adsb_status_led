@@ -1,5 +1,5 @@
 /*
- * Coded by Ishan Anant Karve <ishan.karve@gmail.com>, Aug 2014
+ * Coded by Ishan Anant Karve, Aug 2014
  */
 #include <sys/types.h>
 #include <sys/socket.h>
